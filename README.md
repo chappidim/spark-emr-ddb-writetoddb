@@ -1,1 +1,0 @@
-# spark-emr-ddb-writetoddb
