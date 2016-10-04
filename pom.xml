@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.chappidm</groupId>
-  <artifactId>spark.als.learning</artifactId>
+  <artifactId>spark_emr_ddb.writetoddb</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>spark.als.learning</name>
+  <name>spark_emr_ddb.writetoddb</name>
   <url>http://maven.apache.org</url>
 
   <properties>
